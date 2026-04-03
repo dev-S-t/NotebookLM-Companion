@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Markdown Folder Converter-Splitting",
+  "description": "Upload a folder, select files, and convert them to a flattened markdown structure.",
+  "requestFramePermissions": []
+}
